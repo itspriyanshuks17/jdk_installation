@@ -1,9 +1,6 @@
-```markdown
 # Installing and Uninstalling JDK on Kali Linux WSL
 
 This guide explains how to install and uninstall the Java Development Kit (JDK) on Kali Linux in Windows Subsystem for Linux (WSL).
-
----
 
 ## **1. Installing JDK**
 
